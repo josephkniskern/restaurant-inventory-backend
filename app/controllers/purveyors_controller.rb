@@ -1,0 +1,2 @@
+class PurveyorsController < ApplicationController
+end
